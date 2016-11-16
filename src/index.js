@@ -3,8 +3,6 @@
 $.ready(function (error) {
     console.log('helloworld');
     console.log('helloworld');
-    console.log('helloworld');
-    console.log('helloworld');
     if (error) {
         console.log(error);
         return;
