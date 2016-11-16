@@ -1,6 +1,7 @@
 'use strict';
 
 $.ready(function (error) {
+    console.log('helloworld');
     if (error) {
         console.log(error);
         return;
